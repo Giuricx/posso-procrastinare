@@ -1,9 +1,9 @@
 # Posso procrastinare?
+
 <p align="center">
-  <img src="posso-procrastinare-foto.png.png" alt="Anteprima progetto" width="600"/>
-  <br>
-  <a href="posso-procrastinare-video.mp4">🎥 Guarda il video demo</a>
+  <img src="posso-procrastinare-foto.png" alt="Copertina" width="600"/>
 </p>
+
 
 Un sito che risponde sempre: "Sì, ma solo 5 minuti."
 Poi parte un timer che ti smentisce, ogni volta.
