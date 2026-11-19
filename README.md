@@ -20,7 +20,7 @@ Poi parte un timer che ti smentisce, ogni volta.
 Nessuna dipendenza: scarica il repo e apri `index.html`.
 
 ## Note
-Scritto con l'aiuto di Claude (perch'é siamo messi male). HTML, CSS e JavaScript puro.
+Scritto con l'aiuto di Claude (perché siamo messi male) ma non da Claude. HTML, CSS e JavaScript puro.
 
 ## Licenza
 MIT
